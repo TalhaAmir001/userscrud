@@ -1,0 +1,1 @@
+enum UserMenuOptions { edit, delete}
